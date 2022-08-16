@@ -3,7 +3,7 @@
 
 ➡️I m currently working on ... Web Devlopment.
 
-➡️I m currently learning ... DevOops.
+➡️I m currently learning ... DevOps.
 
 ➡️Ask me about ... anything
 
